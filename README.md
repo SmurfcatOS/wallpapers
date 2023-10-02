@@ -9,5 +9,10 @@ Wallpapers for SmurfcatOS
 - Background 5 - Nate Hallinan https://natehallinan.com/
 - Classic - https://wallpapercave.com/w/wp12895583
 ---
+- Halloween - https://www.rawpixel.com/image/3579028/free-photo-image-autumn-carved-carving
+- Winter - https://www.rawpixel.com/image/3294786/free-photo-image-abies-berthoud-pass-building
+- Santa - https://www.rawpixel.com/image/3338270/free-photo-image-cc0-christmas-creative-commons
+- Christmas - https://www.rawpixel.com/image/3338325/free-photo-image-christmas-card-art-cc0
+---
 - Circle - https://pixabay.com/vectors/circle-glossy-gray-glass-shiny-37294/
 - Smurf Cat - Nate Hallinan https://natehallinan.com/
